@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Gotham";
+    src: local("Gotham"),
+      url("./fonts/Gotham-Bold.otf") format("truetype");
+    font-weight: normal;
+  }
+
+  .h1Theme{
+    font-family: "Gotham";
+    margin-top:70px;
+    margin-left: 30px;
+    margin-right: 10px;
+    letter-spacing: 3px;
+    font-size:4em;
+  }
+  .pTheme{
+    font-family: "Gotham";
+    margin-top:20px;
+    margin-left: 30px;
+    /* font-size:4em; */
+  }
+
+  .BtnTheme{
+    font-family: "Gotham";
+    background: #F25C05;
+    padding:1px 50px;
+    border-color: #F25C05;
+    color: #fff;
+    text-align: center;
+    margin-left: 30px;
+    font-size: 20px;
+    border: 1px solid #F25C05;
+    border-radius: 25px;
+    width: 40%;
+    height: 40px;
+    cursor: pointer;
+    text-align: center;
+}

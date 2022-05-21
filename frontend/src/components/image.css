@@ -1,0 +1,18 @@
+.img {
+    /* padding: 0.5px 20px; */
+    margin: 3px;
+    margin-bottom:0.5px;
+    margin-top:0.9px;
+    /* // alignItems: 'center', */
+    width: 73px; 
+    height: 70px;
+    transition: transform .2s;
+    /* background: '#F25C05'; */
+}
+
+.img:hover {
+    
+    /* width: '200px', */ 
+    /* height: '200px', */ 
+    transform: scale(1.1)
+}
